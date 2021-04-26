@@ -1,2 +1,2 @@
-# smartforce-io.github.io
+# smartforce.io
 The main site of SmartFoce LLC.
